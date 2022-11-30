@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
       </entry>
       <entry>
          <key>BASIC</key>
@@ -22,6 +21,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//input[@name='password']</value>
-      <webElementGuid>baa429f0-b16c-486f-99e6-9c9a7556d1fd</webElementGuid>
+      <webElementGuid>55c0177e-f07d-4e01-b01c-c98d6c840a60</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

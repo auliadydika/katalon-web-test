@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ipt_username</name>
+   <name>txt_quicklaunch</name>
    <tag></tag>
-   <elementGuidId>47c39841-2252-42d0-b0bb-1c2b9a4e29ca</elementGuidId>
+   <elementGuidId>8e5f06cd-8a65-4d87-ada1-a8bf368705c7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//input[@name='username']</value>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div[3]/div/div[1]/div/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//input[@name='username']</value>
-      <webElementGuid>ab68645b-511c-479b-94c3-35d7a5914724</webElementGuid>
+      <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div[3]/div/div[1]/div/p</value>
+      <webElementGuid>899d1b71-fa81-4192-9c7e-bb99262b8eb6</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

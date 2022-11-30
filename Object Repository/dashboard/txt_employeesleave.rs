@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ipt_username</name>
+   <name>txt_employeesleave</name>
    <tag></tag>
-   <elementGuidId>47c39841-2252-42d0-b0bb-1c2b9a4e29ca</elementGuidId>
+   <elementGuidId>bea463df-bfd2-4637-8d00-4d4a881bbc93</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//input[@name='username']</value>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div[4]/div/div[1]/div/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//input[@name='username']</value>
-      <webElementGuid>ab68645b-511c-479b-94c3-35d7a5914724</webElementGuid>
+      <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div[4]/div/div[1]/div/p</value>
+      <webElementGuid>ceeb2302-8f81-4434-8cb8-3edaa00647fc</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

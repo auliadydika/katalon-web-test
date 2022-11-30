@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>ipt_username</name>
+   <name>txt_location</name>
    <tag></tag>
-   <elementGuidId>47c39841-2252-42d0-b0bb-1c2b9a4e29ca</elementGuidId>
+   <elementGuidId>ed26be36-9b60-4e9a-b23f-c84bef122ff6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//input[@name='username']</value>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div[6]/div/div[1]/div/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//input[@name='username']</value>
-      <webElementGuid>ab68645b-511c-479b-94c3-35d7a5914724</webElementGuid>
+      <value>//*[@id=&quot;app&quot;]/div[1]/div[2]/div[2]/div/div[6]/div/div[1]/div/p</value>
+      <webElementGuid>8a09a180-b99b-41e1-8fd7-98d5ca42ab0b</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
