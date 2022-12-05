@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_dashboard</name>
+   <tag></tag>
+   <elementGuidId>e8636a07-5449-4835-897e-85cd7a28a3b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[1]/header/div[1]/div[1]/span/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div[1]/div[1]/header/div[1]/div[1]/span/h6</value>
+      <webElementGuid>82ba4939-5855-415c-b83b-20b252456377</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

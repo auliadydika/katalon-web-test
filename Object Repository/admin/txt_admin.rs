@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_admin</name>
+   <tag></tag>
+   <elementGuidId>f9dc6ac8-04ae-4bb3-b054-b46b44e640a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[1]/header/div[1]/div[1]/span/h6[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div[1]/div[1]/header/div[1]/div[1]/span/h6[1]</value>
+      <webElementGuid>21d200ee-3835-472b-957d-ec31569a4570</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_qualifications</name>
+   <tag></tag>
+   <elementGuidId>46c44b3f-e870-4ea1-b183-a629279e360c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[1]/header/div[2]/nav/ul/li[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div[1]/div[1]/header/div[2]/nav/ul/li[4]/span</value>
+      <webElementGuid>b07ffb51-b8d9-4972-ac8d-3ec295241494</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

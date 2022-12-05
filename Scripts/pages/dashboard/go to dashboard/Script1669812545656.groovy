@@ -13,13 +13,13 @@ import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase("Test Cases/pages/login/login valid"), null)
-
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index')
+WebUI.verifyElementVisible(findTestObject('Object Repository/dashboard/txt_dashboard'))
+WebUI.verifyElementText(findTestObject('Object Repository/dashboard/txt_dashboard'), "Dashboard")
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/dashboard/txt_timeatwork'))
 WebUI.verifyElementText(findTestObject("Object Repository/dashboard/txt_timeatwork"), "Time at Work")

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_user</name>
+   <tag></tag>
+   <elementGuidId>7d34bee1-9be6-47a8-bf5d-2bb9c96c9b46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[1]/header/div[2]/nav/ul/li[1]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div[1]/div[1]/header/div[2]/nav/ul/li[1]/ul/li/a</value>
+      <webElementGuid>3a01fac3-7fff-4aee-903a-7a43f8f0940f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

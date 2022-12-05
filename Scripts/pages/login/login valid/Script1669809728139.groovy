@@ -20,6 +20,9 @@ import org.openqa.selenium.Keys as Keys
 //open website
 WebUI.openBrowser("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
 
+//maximize
+WebUI.maximizeWindow()
+
 //type username
 WebUI.setText(findTestObject("Object Repository/login/ipt_username"), "admin")
 
